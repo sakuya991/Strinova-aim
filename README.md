@@ -1,4 +1,4 @@
-Strinova Color aimbot with the Arduino Leonnardo R3
+Strinova Color aimbot
 
 Hardware:Arduino Leonnardo R3 ，USB Host Shield
 
